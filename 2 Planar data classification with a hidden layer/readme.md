@@ -1,6 +1,6 @@
 In this notebook you will generate red and blue points to form a flower. You will then fit a neural network to correctly classify the points. You will try different layers and see the results.
 
-<image>
+![Image](./images/intro_image.png)
 
 By completing this assignment you will:
 
