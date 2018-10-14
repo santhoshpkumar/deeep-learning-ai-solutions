@@ -1,4 +1,4 @@
-In this notebook you will implement all the building blocks of a neural network and use these building blocks in the next assignment to build a neural network of any architecture you want. By completing this assignment you will:
+In this notebook you will implement all the building blocks of a neural network and use these building blocks to build a neural network of any architecture you want. By completing this you will:
 
 - Develop an intuition of the over all structure of a neural network.
 
